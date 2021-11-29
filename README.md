@@ -1,2 +1,2 @@
-# second-great-war
-Github Repository for the Second Great War HOI4 Mod
+# Ramblers World
+Github Repository for the Ramblers World HOI4 Mod
